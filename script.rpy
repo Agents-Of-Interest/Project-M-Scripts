@@ -277,8 +277,11 @@ label sc_mission_archive:
     show hologram_GM:
         xalign 0.5
         yalign 0.5
-    
+    $ voice_line("gm","ah","sad")
+
+
     Grandmaster "How are you feeling, Enforcer XIII?" 
+
     Morgan "I'm feeling as ready as I'll ever be."
     Grandmaster "Good, because time is of the essence. The assassin from Davidson Solutions should've already infiltrated the hotel."
     Morgan "And I imagine the rogue Federal agent, Graham, is making his move too?"
