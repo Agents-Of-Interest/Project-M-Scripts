@@ -61,4 +61,4 @@ Assassine Route 6:
     else:
         -*** Assassine Ending ***
 
-    
+NICE
