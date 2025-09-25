@@ -280,7 +280,7 @@ label sc_mission_archive:
     $ voice_line("gm","ah","sad")
 
 
-    Grandmaster "How are you feeling now, Enforcer XIII?" 
+    Grandmaster "How are you feeling, Enforcer XIII?" 
 
     Morgan "I'm feeling as ready as I'll ever be."
     Grandmaster "Good, because time is of the essence. The assassin from Davidson Solutions should've already infiltrated the hotel."
